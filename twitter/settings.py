@@ -78,7 +78,9 @@ USE_L10N = True
 
 USE_TZ = True
 
-TEMPLATE_DIRS = ('/home/rakesh/Desktop/twitterDjango/blog/',)
+TEMPLATE_DIRS = (BASE_DIR + '/blog/',)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
