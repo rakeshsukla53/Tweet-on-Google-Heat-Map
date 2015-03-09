@@ -8,10 +8,10 @@ import json
 import sqlite3 as lite
 import sys
 
-ckey = '3FfsKyHKlDWOmpwP57ECPIioY'
-csecret = 'dV3ZomRgR255MVlOptOTrJqa6zl9oEpbZDR0c0Cggn9qQM665g'
-atoken = '39455623-3OplCdYC436UyjjQU6nCBiDL2IlaPwY0ATqtjrpEm'
-asecret = 'HtXvx6zuZzDAODVXVYTfnzoNpDAJwQoLueFhMNZIPHWlw'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 #cur.execute("CREATE TABLE tweet(time varchar(255), tweet varchar(255), latitude varchar(255), longitude varchar(255))")
 
