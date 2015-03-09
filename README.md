@@ -7,4 +7,5 @@ http://ec2-52-1-206-173.compute-1.amazonaws.com
 2- Twitter API 
 3- Google HeatMAP 
 4- Amazon Elastic Beanstalk 
-5- Server has to be run in the amazon instance for real time updates
+5- Tweepy 
+6- Server has to be run in the amazon instance for real time updates
